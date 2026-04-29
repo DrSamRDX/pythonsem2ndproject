@@ -1,3 +1,11 @@
 streamlit
-transformers
 torch
+torchvision
+transformers
+opencv-python
+pillow
+numpy
+pandas
+matplotlib
+scikit-learn
+timm
